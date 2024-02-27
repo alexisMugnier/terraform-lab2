@@ -1,4 +1,4 @@
-  GNU nano 7.2                                                                                                       main.tf                                                                                                                 terraform {
+terraform {
   required_providers {
     docker = {
       source  = "kreuzwerker/docker"
